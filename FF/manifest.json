@@ -1,0 +1,29 @@
+{
+  "version": "2026-11-19",
+  "package": "com.dts.freefireth",
+  "file": "V7A-FFTH.xapk",
+  "size": 396692559,
+  "sha256": "a3fcf3575f6ed20bfd5b9da252dca2c92d72b9734647e1206d039f3585b28f1f",
+  "parts": [
+    {
+      "name": "V7A-FFTH.xapk.part01",
+      "size": 99614720,
+      "sha256": "2048F31A27755E9240648E293889FA54B2F535A2EB1CC396AB3A7A3AD3AAA408"
+    },
+    {
+      "name": "V7A-FFTH.xapk.part02",
+      "size": 99614720,
+      "sha256": "EE8038E26672F6218D4FAB5A439F250A4AD6D50AD8952A6C7C80D6AECD5D255C"
+    },
+    {
+      "name": "V7A-FFTH.xapk.part03",
+      "size": 99614720,
+      "sha256": "289F3C455CBF35D7DD20D4D8CE7A8541F2F6C021D579B5F885A6B5B5F26FCB36"
+    },
+    {
+      "name": "V7A-FFTH.xapk.part04",
+      "size": 97848399,
+      "sha256": "F05693AA1D35868AF94EF66DCFFE5CEF33795907FAE52E245F09C44EECB407C9"
+    }
+  ]
+}

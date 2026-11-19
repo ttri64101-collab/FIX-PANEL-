@@ -1,0 +1,23 @@
+{
+  "vc": {
+    "file": "Redist/vc-redist.zip",
+    "size": 91270509,
+    "sha256": "A9F7BE832291062E7A95021F13C975E0387D44D106BC14025AB8F82693715E7C",
+    "version": "2005-2022"
+  },
+  "directX": {
+    "file": "Redist/directx.zip",
+    "size": 394241,
+    "sha256": "DE18CAF0EADF5E18495398018710626D838295B1DB0599EB340641FEC1BB0C26",
+    "version": "9.0c/11"
+  },
+  "emulator": {
+    "file": "Emulator/BlueStacksInstaller_5.22.125.1001_native.exe",
+    "size": 949888,
+    "sha256": "A52BABCE6F6EABF4F968A7ADAA0796CCBE076DCF20645575EAFB0265F7F3CA19",
+    "version": "5.22.125.1001"
+  },
+  "ff": {
+    "manifest": "FF/manifest.json"
+  }
+}
